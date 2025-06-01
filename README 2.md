@@ -52,7 +52,7 @@ streamlit run chatgpt_style_chatbot.py
 - pytesseract (backup OCR)
 - PIL (for image handling)
 
----
 
-## 📬 Author
-Created with ❤️ using Streamlit + OpenAI
+
+
+
